@@ -25,8 +25,7 @@ PROCESS
 
 DATASET
 
-Already labeled dataset
-
+Already labeled dataset  <br>
 [https://drive.google.com/file/d/1JQ33jmM3kdeF5cRgQ39ceCnP\_fXIO9d/view?usp=sharing](https://drive.google.com/file/d/1JQ33jmM3kdeF5cRgQ39ceCnP_fXIO9d/view?usp=sharing)
 
 with self-annotated images with Labellmg
@@ -36,6 +35,9 @@ with self-annotated images with Labellmg
 TRAINING THE MODEL
 
 Convert the data into YOLO format by using a python script and then move into the training stage which is very resource intensive. Therefore, training the model is done in a powerful computer provided by google and the processes took more than 12 hours for train a single yolo model.
+
+Link to  downloadtrained weight  files  <br>
+[https://drive.google.com/drive/folders/10BhAuhWVaDb66S9oe95BawKlUkw1EVik?usp=sharing](https://drive.google.com/drive/folders/10BhAuhWVaDb66S9oe95BawKlUkw1EVik?usp=sharing)
 
 INFERRED IMAGES
 
